@@ -12,6 +12,13 @@ Hello! I'm embarking on an exciting journey through PwC Switzerland's Virtual Ca
 ## My Tasks
 I'll be tackling several tasks, each designed to challenge and improve my understanding of the digital business world.
 
+- **Enhanced PowerBI Skills**: Completed a job simulation to improve PowerBI proficiency, crucial for understanding client data visualization needs.
+- **Data Visualization Expertise**: Developed Power BI dashboards to effectively communicate KPIs, demonstrating the ability to meet client requests with well-structured solutions.
+- **Effective Communication**: Exhibited strong communication skills through clear and informative email interactions with engagement partners, providing insightful and actionable data-driven recommendations.
+- **Analytical Problem-Solving**: Focused on examining HR data, especially gender-related KPIs, to identify root causes of gender imbalances at the executive management level, underscoring a dedication to informed decision-making.
+
+
+
 ### Task One: Introduction 
 - **Learning Points:** Understanding the importance of digital transformation and the objectives of the Digital Accelerator program.
 - **Actions:** I'll be watching videos on digital upskilling and reflecting on my digital journey.
